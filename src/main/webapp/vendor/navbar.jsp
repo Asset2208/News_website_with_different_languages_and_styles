@@ -45,21 +45,14 @@
                         }
                     }
                 %>
-<%--                <li class="nav-item">--%>
-<%--                    <form action="/setcookie?name=РУС" method="post">--%>
-<%--                        <button class="<%=class_ru%>" style="color: <%=style1.getNavbar_main()%>;">РУС</button>--%>
-<%--                    </form>--%>
-<%--                </li>--%>
+
 
 
             </ul>
             <span>
                 <a class="navbar-brand" href="/"><h3 style="color: <%=style1.getNavbar_main()%>;">WORLD NEWS PORTAL</h3></a>
             </span>
-<%--            <form class="form-inline">--%>
-<%--                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">--%>
-<%--                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>--%>
-<%--            </form>--%>
+
             <div>
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <%
